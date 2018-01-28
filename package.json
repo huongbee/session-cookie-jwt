@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.2",
+    "express-session": "^1.0.6",
+    "jsonwebtoken": "^8.1.1"
+  },
+  "name": "session-cookie-jwt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Huong",
+  "license": "MIT"
+}
